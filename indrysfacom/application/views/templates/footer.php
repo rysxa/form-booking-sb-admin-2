@@ -57,6 +57,9 @@
 
 <!-- Javascript Internal -->
 <script src="assets/js/javascript.js"></script>
+<script src="assets/template/sb-admin-2/datatables/datatables.bootstrap4.js">
+    
+</script>
 
 </body>
 

@@ -52,6 +52,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 // $route['blog'] = 'welcome/blog';
 
 // Page Booking
+$route['team'] = 'booking/team';
 $route['order'] = 'booking/order';
 $route['order-wa'] = 'booking/order_wa';
 // Home page login

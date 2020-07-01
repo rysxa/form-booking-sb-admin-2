@@ -67,7 +67,7 @@
                         <h6 class="collapse-header">List Booking:</h6>
                         <a class="collapse-item" href="<?= base_url('order') ?>">Booking Order</a>
                         <a class="collapse-item" href="#">Work Order</a>
-                        <a class="collapse-item" href="#">Team</a>
+                        <a class="collapse-item" href="<?= base_url('team') ?>">Team</a>
                     </div>
                 </div>
             </li>
